@@ -1,6 +1,7 @@
 ﻿# Sistema de Cálculo de Descontos para Marketplace 
  
 ## Seu Nome:
+Joao Antonio Nascimento Pires
 
 ## Visão Geral do Projeto
 
